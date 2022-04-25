@@ -21,7 +21,13 @@ b 2
 c 2
 ```
 
+## Next
 
-## LICENSE 
+This command will be implemented with Rust. 
 
-This command is distributed under GPL-3.0 or later. 
+
+## License 
+
+This command is distributed under GPL-3.0 or later. But it will be done under
+GPL or MIT dual license. 
+
