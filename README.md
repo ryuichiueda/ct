@@ -21,6 +21,14 @@ b 2
 c 2
 ```
 
+## Install
+
+```
+$ ls /usr/local/bin/cp 
+(Please check that no command with the same name exists.)
+$ cp ct /usr/local/bin/
+```
+
 ## Next
 
 This command will be implemented with Rust. 
