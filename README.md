@@ -24,7 +24,7 @@ c 2
 ## Install
 
 ```
-$ ls /usr/local/bin/cp 
+$ ls /usr/local/bin/ct
 (Please check that no command with the same name exists.)
 $ cp ct /usr/local/bin/
 ```
